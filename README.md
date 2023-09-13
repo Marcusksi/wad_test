@@ -1,2 +1,2 @@
 # wad_test
-yep
+yep.
